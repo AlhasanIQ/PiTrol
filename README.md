@@ -6,16 +6,16 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <div align="center">
-  <img src="favicon.ico" width=150 />
+  <img src="favicon.png" width=150 />
 </div>
 
 # PiTrol
 PiTrol is a project that allows you to monitor and control your Raspberry Pi over a web browser.
 
 ## Screenshots
-<img src="screenshots/1.png" width=300 />
-<img src="screenshots/2.png" width=300 />
-<img src="screenshots/3.png" width=300 />
+<img src="screenshots/1.png" width=200 />
+<img src="screenshots/2.png" width=200 />
+<img src="screenshots/3.png" width=200 />
 
 ## Usage
 1. Check out a copy of the project
